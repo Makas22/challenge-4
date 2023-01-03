@@ -88,7 +88,8 @@ let finances = [
     ];
 
     
- console.log("Financial")
+ console.log("Financial Analysis")
+ 
 
 
 
@@ -136,6 +137,6 @@ let finances = [
     // Look up how to limit the answer to two decimal points
 
 // Sample decrementing for loop
-for (let i = arr.length - 1; i > 0; i--) {
+// for (let i = arr.length - 1; i > 0; i--) {
   
-}
+// }
